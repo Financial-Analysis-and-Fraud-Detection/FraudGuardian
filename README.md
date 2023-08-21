@@ -17,3 +17,7 @@ As you embark on this exploration of the synergy between AI and finance, you wil
 The Financial Analysis and Fraud Detection AI Project ushers in a brand new generation of monetary operations, strengthened with the aid of the prowess of AI. Join us as we delve into this realm of innovation, wherein the era's precision meets finance's complexity, ensuing in multiplied accuracy, informed choices, and fortified economic integrity for all stakeholders.
 
 SOLUTION
+
+![Alt Text](Image URL)C:\Users\user\Downloads\Fraud-Analysis.jpg
+
+
