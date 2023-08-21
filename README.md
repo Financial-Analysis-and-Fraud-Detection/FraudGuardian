@@ -129,7 +129,7 @@ financial data.
 articles, social media posts, and reports. Extracting meaningful insights requires NLP models to 
 handle varying data formats and language nuances.
 
-* Language Variability and Slang: Financial text data often includes jargon, slang, and domainspecific terminology. NLP models must account for language variations to accurately interpret 
+* Language Variability and Slang: Financial text data often includes jargon, slang, and domain-specific terminology. NLP models must account for language variations to accurately interpret 
 and analyze the content.
 
 * Contextual Ambiguity: Ambiguities in language and context can lead to misinterpretation. NLP 
