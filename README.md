@@ -20,4 +20,5 @@ SOLUTION
 
 ![Alt Text](Image URL)C:\Users\user\Downloads\Fraud-Analysis.jpg
 
+![Fraud-Analysis](https://github.com/Financial-Analysis-and-Fraud-Detection/FraudGuardian/assets/140595879/7000ab3d-44a1-4600-a70a-8fcffcbacb42)
 
