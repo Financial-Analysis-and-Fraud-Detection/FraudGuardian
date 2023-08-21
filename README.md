@@ -141,7 +141,7 @@ systems need to understand the context of words and phrases to avoid inaccurate 
 * Unstructured Data Complexity: Develop preprocessing techniques to standardize text data, 
 remove noise, and convert unstructured data into structured formats suitable for NLP analysis.
 
-* Language Variability and Slang: Build domain-specific dictionaries and ontologies to ensure 
+* Language Variability and Slang: Build domain specific dictionaries and ontologies to ensure 
 accurate interpretation of financial terminology and slang, enhancing language understanding.
 
 * Contextual Ambiguity: Incorporate context-aware algorithms that analyze surrounding words to 
