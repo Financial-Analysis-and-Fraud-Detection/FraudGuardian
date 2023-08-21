@@ -97,7 +97,7 @@ Machine Learning (ML) performs a pivotal role in revolutionizing financial analy
 ## Solution Techniques for Financial Analysis and Fraud Detection
 
 The implementation of advanced solution techniques is paramount in reaching correct 
-monetary analysis and proactive fraud detection. Leveraging a combination of informationdriven methodologies and present day technology, establishments can improve their monetary 
+monetary analysis and proactive fraud detection. Leveraging a combination of information driven methodologies and present day technology, establishments can improve their monetary 
 operations and mitigate risks efficaciously. Here is an overview of key solution techniques 
 applied within the area of Financial Analysis and Fraud Detection:
 
