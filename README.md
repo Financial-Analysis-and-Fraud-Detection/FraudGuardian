@@ -125,7 +125,7 @@ While Natural Language Processing (NLP) brings transformative capabilities to fi
 fraud detection, it also encounters several challenges inherent to the complex and dynamic nature of 
 financial data.
 
-*Unstructured Data Complexity: Financial data is diverse and unstructured, comprising news 
+* Unstructured Data Complexity: Financial data is diverse and unstructured, comprising news 
 articles, social media posts, and reports. Extracting meaningful insights requires NLP models to 
 handle varying data formats and language nuances.
 
