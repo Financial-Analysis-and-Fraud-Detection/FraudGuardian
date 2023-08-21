@@ -118,3 +118,4 @@ developing knowledgeable investment techniques and hazard control plans.
 * Natural Language Processing (NLP): NLP strategies examine text-based facts, which includes 
 financial information articles and reviews, to extract sentiment and insights that have an effect 
 on market tendencies. This facts publications investment decisions
+
