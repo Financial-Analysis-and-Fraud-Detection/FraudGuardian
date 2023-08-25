@@ -253,30 +253,30 @@ detection techniques, analyze transaction data to identify patterns indicative o
 fraudulent activities. They can uncover subtle anomalies that traditional 
 methods might miss, enhancing fraud prevention.
 
-3. Credit Scoring: Deep Learning assesses creditworthiness by analyzing diverse 
+2. Credit Scoring: Deep Learning assesses creditworthiness by analyzing diverse 
 data sources like financial records, transaction history, and social media profiles. 
 This leads to more accurate credit scoring and risk assessment.
 
-4. Market Analysis: Deep Learning models analyze historical market data to predict 
+3. Market Analysis: Deep Learning models analyze historical market data to predict 
 price movements, trends, and market sentiment. This aids traders, investors, and 
 financial analysts in making informed decisions.
 
-5. Portfolio Management: Deep Learning assists in portfolio optimization by 
+4. Portfolio Management: Deep Learning assists in portfolio optimization by 
 analyzing asset correlations, risk profiles, and historical data to determine the 
 optimal asset allocation for a balanced portfolio.
 
-6. News Sentiment Analysis: Deep Learning gauges sentiment from news articles, 
+5. News Sentiment Analysis: Deep Learning gauges sentiment from news articles, 
 financial reports, and social media to understand market sentiment and 
 anticipate market reactions.
 
-7. High-Frequency Trading: Deep Learning models process vast amounts of high-frequency data and identify trading opportunities within microseconds, enabling 
+6. High-Frequency Trading: Deep Learning models process vast amounts of high-frequency data and identify trading opportunities within microseconds, enabling 
 lightning-fast trading decisions.
 
-8. Customer Behavior Analysis: Deep Learning profiles customer behavior using 
+7. Customer Behavior Analysis: Deep Learning profiles customer behavior using 
 transaction history, identifying patterns that help in personalized financial 
 services and cross-selling.
 
-9. Risk Management: Deep Learning assesses risk by modeling complex 
+8. Risk Management: Deep Learning assesses risk by modeling complex 
 relationships in financial data, providing insights into potential financial 
 vulnerabilities and exposure
 
