@@ -191,7 +191,7 @@ fraud detection, it also encounters several challenges inherent to the complex a
 financial data.
 
 * Unstructured Data Complexity: Financial data is diverse and unstructured, comprising news 
-articles, social media posts, and reports. Extracting meaningful insights requires NLP models to 
+articles, social media posts, and reports. Extracting meaningful insights requires NLP models to
 handle varying data formats and language nuances.
 
 * Language Variability and Slang: Financial text data often includes jargon, slang, and domain-specific terminology. NLP models must account for language variations to accurately interpret 
