@@ -152,36 +152,30 @@ computers to understand human language, as humans actually use it.
                                                         NLP APPLICATIONS
 
 
-1. Sentiment Analysis: NLP gauges market sentiment by analyzing news and social media, 
-influencing investment decisions.
+1. Sentiment Analysis: NLP gauges market sentiment by analyzing news and social media,
+  Influencing investment decisions.
 
-2. News Analysis: NLP extracts valuable data from financial news, aiding analysts in predicting 
-market trends and assessing companies' performance.
+2. News Analysis: NLP extracts valuable data from financial news, aiding analysts in predicting
+  Market trends and assessing companies' performance.
 
-3. Earnings Calls Transcription: NLP transcribes earnings calls, providing insights into financial 
-performance and risks.
+3. Earnings Calls Transcription: NLP transcribes earnings calls, revealing financial success and dangers.
 
-4. Regulatory Compliance: NLP identifies compliance violations by analyzing legal documents and 
-communication.
+4. Regulatory Compliance: NLP identifies compliance violations by analysing legal documents and communication.
 
-5. Fraud Detection: NLP identifies fraudulent activities by detecting patterns and language 
-indicative of fraud.
+5. Fraud Detection: NLP identifies patterns and language indicative of fraud,
+   thus making it possible to detect fraudulent actions
 
-6. Customer Communication Analysis: NLP understands customer sentiments, enhancing 
-personalized financial services.
+6. Customer Communication Analysis: NLP understands customer sentiments, which improves the personalization of financial services.
 
 7. Document Summarization: NLP summarizes lengthy documents for efficient data retrieval.
-  
-8. Market News Trend Prediction: NLP predicts trends based on news sentiment, informing 
-investment decisions.
 
-9. Real-Time Monitoring: NLP tracks social media and news sources, facilitating prompt responses 
-to emerging trends.
+8. Market News Trend Prediction: NLP makes trend predictions based on news sentiments, which helps investors make judgments.
 
-10. Regulatory Insight: NLP analyzes regulatory updates, aiding compliance adaptation.
+9. Real-Time Monitoring: NLP monitors social media and news sources, allowing for quick responses to developing trends.
+
+10. Regulatory Insight: NLP analyses regulatory updates to assist in adjusting compliance.
     
-11. Language Translation: NLP translates financial information across languages for global 
-understanding.
+11. Language Translation: NLP translates financial data across languages for worldwide comprehension.
 
 
 ## Challenges Faced by NLP in Financial Analysis and Fraud Detection
