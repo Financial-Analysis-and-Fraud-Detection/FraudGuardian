@@ -160,7 +160,7 @@ computers to understand human language, as humans actually use it.
 
 3. Earnings Calls Transcription: NLP transcribes earnings calls, revealing financial success and dangers.
 
-4. Regulatory Compliance: NLP identifies compliance violations by analysing legal documents and communication.
+4. Regulatory Compliance: NLP identifies compliance violations by analyzing legal documents and communication.
 
 5. Fraud Detection: NLP identifies patterns and language indicative of fraud,
    thus making it possible to detect fraudulent actions
