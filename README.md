@@ -3,7 +3,7 @@
 A Financial Analysis and Fraud Detection Tool
 FraudGuardian is a project focused on developing an advanced financial analysis and fraud detection tool. The tool aims to identify potential fraudulent activities within financial transactions through data analysis, machine learning, and visualization techniques.
 
-In the modern-day intricate and hastily evolving economic landscape, correct analysis, risk evaluation, and fraud detection have come to be essential. Financial institutions, corporations, and people depend on sturdy strategies to shield their property and make nicely-informed decisions . Welcome to the Financial Analysis and Fraud Detection AI Project – a groundbreaking initiative that harnesses the energy of Artificial Intelligence (AI) to revolutionize monetary protection and decision-making tactics.
+In the modern-day intricate and hastily evolving economic landscape, correct analysis, risk evaluation, and fraud detection have come to be essential. Financial institutions, corporations, and people depend on sturdy strategies to shield their property and make well-informed decisions . Welcome to the Financial Analysis and Fraud Detection AI Project – a groundbreaking initiative that harnesses the energy of Artificial Intelligence (AI) to revolutionize monetary protection and decision-making tactics.
 
 ## Introduction
 
