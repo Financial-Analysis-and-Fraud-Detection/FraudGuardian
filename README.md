@@ -3,7 +3,7 @@
 A Financial Analysis and Fraud Detection Tool
 FraudGuardian is a project focused on developing an advanced financial analysis and fraud detection tool. The tool aims to identify potential fraudulent activities within financial transactions through data analysis, machine learning, and visualization techniques.
 
-In the modern-day intricate and hastily evolving economic landscape, correct analysis, risk evaluation, and fraud detection have come to be essential. Financial institutions, corporations, and people depend on sturdy strategies to shield their property and make well-informed decisions . Welcome to the Financial Analysis and Fraud Detection AI Project – a groundbreaking initiative that harnesses the energy of Artificial Intelligence (AI) to revolutionize monetary protection and decision-making tactics.
+In the modern-day intricate and hastily evolving economic landscape, correct analysis, risk evaluation, and fraud detection have come to be essential. Financial institutions, corporations, and people depend on sturdy strategies to shield their property and make well-informed decisions. Welcome to the Financial Analysis and Fraud Detection AI Project – a groundbreaking initiative that harnesses the energy of Artificial Intelligence (AI) to revolutionize monetary protection and decision-making tactics.
 
 ## Introduction
 
@@ -11,7 +11,7 @@ Global finance operates inside a sensitive stability of dangers and rewards, in 
 
 ## Problem definition
 
-The challenges of accurate financial analysis and the enduring threat of fraud pose significant hurdles in the world of finance, which is characterized by quick technological transactions. Traditional methods of financial analysis struggle to handle the complexities of modern financial systems, while evolving fraudulent tactics demand a proactive response. These challenges highlight the necessity of an advanced solution leveraging Artificial Intelligence
+The challenges of accurate financial analysis and the enduring threat of fraud pose significant hurdles in the world of finance, which is characterized by quick technological transactions. Traditional methods of financial analysis struggle to handle the complexities of modern financial systems while evolving fraudulent tactics demand a proactive response. These challenges highlight the necessity of an advanced solution leveraging Artificial Intelligence
 
 ## Vision
 
@@ -28,7 +28,7 @@ The Financial Analysis and Fraud Detection AI Project ushers in a brand new gene
                               Solution for Financial Analysis and Fraud Detection. Here are the key points:
                                                                      Overview
 
-The solution employs AI to enhance accuracy, efficiency, and security in financial operations.
+The solution employs AI to enhance financial operations' accuracy, efficiency, and security.
 
 Advanced-Data Analytics: It uses machine learning to analyze large volumes of financial data quickly and accurately, identifying patterns and anomalies for informed decision-making.
 
