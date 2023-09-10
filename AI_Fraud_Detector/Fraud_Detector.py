@@ -3,7 +3,6 @@ import pandas as pd
 # Load the financial data from a CSV file
 data = pd.read_csv('C:/Users/Tau/Desktop/Repository/FraudGuardian/FraudGuardian/AI_Fraud_Detector/data_set/financial_data.csv')
 
-# Data cleaning (if necessary)
 # Can handle missing values, duplicate rows, or outliers.
 data.drop_duplicates(inplace=True)
 data.dropna(inplace=True)
