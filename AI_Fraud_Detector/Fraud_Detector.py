@@ -4,11 +4,11 @@ import pandas as pd
 data = pd.read_csv('C:/Users/Tau/Desktop/Repository/FraudGuardian/FraudGuardian/AI_Fraud_Detector/data_set/financial_data.csv')
 
 # Data cleaning (if necessary)
-# For example, you can handle missing values, duplicate rows, or outliers.
+# Can handle missing values, duplicate rows, or outliers.
 data.drop_duplicates(inplace=True)
 data.dropna(inplace=True)
 
-# Example: Selecting relevant columns
+# Selecting relevant columns
 selected_features = ['age', 'transaction amount', 'account type']
 
 # Subset the DataFrame with selected features
