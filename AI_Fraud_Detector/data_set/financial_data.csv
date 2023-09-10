@@ -1,0 +1,41 @@
+first name,surname,ID number,age,address,town,city,email,phone number,occupation,transaction timestamp,transaction amount,account type
+Thabo,Moloi,8502051234089,36,123 Main St,Johannesburg,Johannesburg,thabo.moloi@email.com,071-123-4567,Accountant,2023-08-01 08:30:00,1500.00,Savings
+Thabo,Moloi,8502051234089,36,123 Main St,Johannesburg,Johannesburg,thabo.moloi@email.com,071-123-4567,Accountant,2023-08-10 14:45:00,300.00,Checking
+Sipho,Nkosi,9010152345123,31,456 Elm St,Pretoria,Tshwane,sipho.nkosi@email.com,082-987-6543,Software Engineer,2023-08-02 09:15:00,2000.00,Savings
+Sipho,Nkosi,9010152345123,31,456 Elm St,Pretoria,Tshwane,sipho.nkosi@email.com,082-987-6543,Software Engineer,2023-08-12 12:00:00,500.00,Checking
+Nomfundo,Zulu,7611253456123,44,789 Oak St,Durban,Durban,nomfundo.zulu@email.com,083-555-7890,Financial Analyst,2023-08-03 11:30:00,1200.00,Savings
+Nomfundo,Zulu,7611253456123,44,789 Oak St,Durban,Durban,nomfundo.zulu@email.com,083-555-7890,Financial Analyst,2023-08-15 16:30:00,800.00,Checking
+Lerato,Khumalo,9303156789123,29,101 Maple St,Cape Town,Cape Town,lerato.khumalo@email.com,072-888-5555,Data Scientist,2023-08-05 14:00:00,1800.00,Savings
+Lerato,Khumalo,9303156789123,29,101 Maple St,Cape Town,Cape Town,lerato.khumalo@email.com,072-888-5555,Data Scientist,2023-08-18 09:00:00,600.00,Checking
+Bongani,Ngwenya,8806108901123,34,222 Pine St,Bloemfontein,Bloemfontein,bongani.ngwenya@email.com,084-222-7890,Investment Banker,2023-08-06 13:45:00,2500.00,Savings
+Bongani,Ngwenya,8806108901123,34,222 Pine St,Bloemfontein,Bloemfontein,bongani.ngwenya@email.com,084-222-7890,Investment Banker,2023-08-20 10:30:00,700.00,Checking
+Naledi,Modise,9205257890123,31,333 Oak St,Port Elizabeth,Port Elizabeth,naledi.modise@email.com,081-333-4444,Marketing Manager,2023-08-07 16:15:00,1400.00,Savings
+Naledi,Modise,9205257890123,31,333 Oak St,Port Elizabeth,Port Elizabeth,naledi.modise@email.com,081-333-4444,Marketing Manager,2023-08-22 14:15:00,900.00,Checking
+Tebogo,Molefe,8607224567123,35,444 Elm St,Polokwane,Polokwane,tebogo.molefe@email.com,079-444-7777,Financial Planner,2023-08-08 10:30:00,2000.00,Savings
+Tebogo,Molefe,8607224567123,35,444 Elm St,Polokwane,Polokwane,tebogo.molefe@email.com,079-444-7777,Financial Planner,2023-08-24 12:45:00,400.00,Checking
+Kagiso,Magagula,9403105678123,27,555 Maple St,Mbombela,Mbombela,kagiso.magagula@email.com,083-555-1234,Stock Broker,2023-08-09 09:45:00,1800.00,Savings
+Kagiso,Magagula,9403105678123,27,555 Maple St,Mbombela,Mbombela,kagiso.magagula@email.com,083-555-1234,Stock Broker,2023-08-26 15:30:00,300.00,Checking
+Nthabiseng,Moyo,8105276789123,41,666 Pine St,Kimberley,Kimberley,nthabiseng.moyo@email.com,072-666-8888,Economist,2023-08-11 11:00:00,1500.00,Savings
+Nthabiseng,Moyo,8105276789123,41,666 Pine St,Kimberley,Kimberley,nthabiseng.moyo@email.com,072-666-8888,Economist,2023-08-28 17:00:00,500.00,Checking
+Mpho,Phiri,8909154567123,32,777 Oak St,East London,East London,mpho.phiri@email.com,084-777-9999,Investment Analyst,2023-08-12 14:30:00,1600.00,Savings
+Mpho,Phiri,8909154567123,32,777 Oak St,East London,East London,mpho.phiri@email.com,084-777-9999,Investment Analyst,2023-08-30 10:45:00,700.00,Checking
+Sibongile,Dlamini,8702013456123,34,888 Elm St,Rustenburg,Rustenburg,sibongile.dlamini@email.com,082-888-2222,Financial Advisor,2023-08-13 13:15:00,2200.00,Savings
+Sibongile,Dlamini,8702013456123,34,888 Elm St,Rustenburg,Rustenburg,sibongile.dlamini@email.com,082-888-2222,Financial Advisor,2023-08-31 14:30:00,800.00,Checking
+Sandile,Ncube,8005116789123,41,999 Maple St,Welkom,Welkom,sandile.ncube@email.com,071-999-1111,Account Manager,2023-08-14 10:00:00,1800.00,Savings
+Sandile,Ncube,8005116789123,41,999 Maple St,Welkom,Welkom,sandile.ncube@email.com,071-999-1111,Account Manager,2023-08-31 09:15:00,600.00,Checking
+Lungelo,Khoza,9604255678123,25,111 Pine St,Port Shepstone,Port Shepstone,lungelo.khoza@email.com,083-111-3333,Investment Consultant,2023-08-16 12:45:00,1400.00,Savings
+Lungelo,Khoza,9604255678123,25,111 Pine St,Port Shepstone,Port Shepstone,lungelo.khoza@email.com,083-111-3333,Investment Consultant,2023-08-31 11:30:00,900.00,Checking
+Thandiwe,Nkomo,9308234567123,28,222 Oak St,Middelburg,Middelburg,thandiwe.nkomo@email.com,079-222-5555,Financial Coordinator,2023-08-17 15:30:00,1900.00,Savings
+Thandiwe,Nkomo,9308234567123,28,222 Oak St,Middelburg,Middelburg,thandiwe.nkomo@email.com,079-222-5555,Financial Coordinator,2023-08-31 13:00:00,400.00,Checking
+Zanele,Mthembu,8903075678123,32,333 Elm St,Klerksdorp,Klerksdorp,zanele.mthembu@email.com,082-333-8888,Stock Analyst,2023-08-19 11:15:00,1600.00,Savings
+Zanele,Mthembu,8903075678123,32,333 Elm St,Klerksdorp,Klerksdorp,zanele.mthembu@email.com,082-333-8888,Stock Analyst,2023-08-31 14:45:00,300.00,Checking
+Sanele,Khumalo,8206106789123,41,444 Maple St,Uitenhage,Uitenhage,sanele.khumalo@email.com,084-444-2222,Investment Strategist,2023-08-21 09:30:00,2200.00,Savings
+Sanele,Khumalo,8206106789123,41,444 Maple St,Uitenhage,Uitenhage,sanele.khumalo@email.com,084-444-2222,Investment Strategist,2023-08-31 16:30:00,800.00,Checking
+Lindiwe,Majola,9101194567123,31,555 Pine St,Vereeniging,Vereeniging,lindiwe.majola@email.com,071-555-7777,Financial Controller,2023-08-23 14:00:00,1800.00,Savings
+Lindiwe,Majola,9101194567123,31,555 Pine St,Vereeniging,Vereeniging,lindiwe.majola@email.com,071-555-7777,Financial Controller,2023-08-31 10:15:00,600.00,Checking
+Siphiwe,Ntuli,8507035678123,36,666 Oak St,George,George,siphiwe.ntuli@email.com,079-666-0000,Economist,2023-08-25 12:30:00,1500.00,Savings
+Siphiwe,Ntuli,8507035678123,36,666 Oak St,George,George,siphiwe.ntuli@email.com,079-666-0000,Economist,2023-08-31 14:00:00,500.00,Checking
+Mandla,Maseko,8004154567123,42,777 Elm St,Paarl,Paarl,mandla.maseko@email.com,083-777-3333,Financial Manager,2023-08-27 16:45:00,1400.00,Savings
+Mandla,Maseko,8004154567123,42,777 Elm St,Paarl,Paarl,mandla.maseko@email.com,083-777-3333,Financial Manager,2023-08-31 11:30:00,900.00,Checking
+Nkosinathi,Nkosi,9306285678123,28,888 Maple St,Springs,Springs,nkosinathi.nkosi@email.com,082-888-6666,Data Analyst,2023-08-29 09:15:00,1600.00,Savings
+Nkosinathi,Nkosi,9306285678123,28,888 Maple St,Springs,Springs,nkosinathi.nkosi@email.com,082-888-6666,Data Analyst,2023-08-31 10:45:00,700.00,Checking
