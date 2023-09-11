@@ -1,5 +1,5 @@
 ## DATA
-Unlabeled data serves as a critical resource across diverse contexts, encompasing realms such as videos, audio recordings, and financial transactions. The primary role of this data lies in its utilization for identifying intricate patterns and anomalies that might otherwise remain concealed.
+Unlabeled data serves as a critical resource across diverse contexts, encompassing realms such as videos, audio recordings, and financial transactions. The primary role of this data lies in its utilization for identifying intricate patterns and anomalies that might otherwise remain concealed.
 
 Upon identification, the detected data is judiciously stored to facilitate future analysis and reference. In financial analysis and fraud detection, a notable technique involves biometrics. These biometric methods extract distinct features from financial records, subsequently enabling a comparison with established instances of both legitimate and fraudulent activities. Yet, it is essential to acknowledge and address concerns revolving around potential errors that might arise during this intricate process.
 
