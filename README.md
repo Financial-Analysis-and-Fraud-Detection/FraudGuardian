@@ -174,13 +174,12 @@ computers to understand human language, as humans actually use it.
 
 7. Document Summarization: NLP summarizes lengthy documents for efficient data retrieval.
 
-8. Market News Trend Prediction: NLP makes trend predictions based on news sentiments, which helps investors make judgments.
 
-9. Real-Time Monitoring: NLP monitors social media and news sources, allowing for quick responses to developing trends.
+8. Real-Time Monitoring: NLP monitors social media and news sources, allowing for quick responses to developing trends.
 
-10. Regulatory Insight: NLP analyses regulatory updates to assist in adjusting compliance.
+9. Regulatory Insight: NLP analyses regulatory updates to assist in adjusting compliance.
     
-11. Language Translation: NLP translates financial data across languages for worldwide comprehension.
+10. Language Translation: NLP translates financial data across languages for worldwide comprehension.
 
 
 ## Challenges Faced by NLP in Financial Analysis and Fraud Detection
