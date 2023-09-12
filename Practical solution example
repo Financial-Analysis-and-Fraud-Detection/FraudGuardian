@@ -1,0 +1,102 @@
+Title: Overstated Student Enrollment for Financial Aid (University and NSFAS Fraud)
+Background:
+
+In South Africa, the National Student Financial Aid Scheme (NSFAS) provides financial aid to 
+academically deserving but financially disadvantaged students. The University of Limpopo is 
+one of the institutions participating in the program. To ensure deserving students receive 
+financial aid, NSFAS and the university must coordinate the enrollment of eligible students 
+accurately. However, there is a potential fraud problem in which the university might attempt 
+to overstate the number of eligible students, leading to excessive disbursement of funds.
+Fraud Scenario:
+
+Student Application to NSFAS:
+1. Students apply to NSFAS for financial aid, providing their personal information, including 
+names, surnames, IDs, address, and other relevant details.
+2. NSFAS receives and stores the student information in its database.
+
+
+ Student Application to the University:
+1. Students also apply for admission to the University of Limpopo.
+2. The university accepts students for admission and stores their information, including 
+names, surnames, IDs, addresses, and other personal details.
+
+
+Coordination between University and NSFAS:
+1. The University of Limpopo identifies a significant number of students who are struggling 
+financially and require financial assistance.
+2. The university must send a list of eligible students to NSFAS to facilitate the disbursement of 
+funds to the needy students.
+
+
+Fraudulent Act:
+1. In an attempt to secure additional funding, the university sends a list of 30,000 students 
+to NSFAS, even though they only have 20,000 eligible students in need of financial aid.
+2. This fraudulent act results in an overstatement of the number of eligible students, 
+leading to the disbursement of financial aid for 10,000 non-existent students.
+
+
+Fraud Detection System:
+The proposed fraud detection system(Fraud-Guardian) aims to identify and prevent this 
+fraudulent act by comparing and analyzing the student information provided by the university 
+and NSFAS:
+Fraud-Guardian System Operation:
+
+Data Collection and Storage:
+The university collects student information for admission.
+NSFAS collects student information for financial aid applications.
+
+
+Data Analysis and Comparison:
+The fraud detection system periodically compares the student information stored by the 
+university and NSFAS.
+It identifies inconsistencies in the number of eligible students between the two datasets.
+
+
+Alert Generation:
+If the system detects an inconsistency where the university claims more eligible students than 
+NSFAS has in its records, it triggers an alert.
+
+
+Verification Process:
+Upon receiving an alert, NSFAS initiates a verification process.
+NSFAS cross-references its records with the university's list to identify discrepancies and 
+confirm the actual number of eligible students.
+
+
+Resolution:
+
+If fraudulent activity is confirmed, NSFAS takes appropriate legal and administrative actions 
+against the university.
+To strengthen the fraud detection system and ensure its effectiveness in identifying and 
+preventing fraudulent activities related to student enrollment for financial aid, the following 
+enhancements and additional measures can be implemented:
+1. Identity Number Validation:
+In addition to comparing the number of students, the system can flag identity numbers (IDs) for 
+originality.
+This is a crucial step since most fraudsters creating ghost students might generate fake IDs.
+The system can cross-reference the ID numbers provided by the university with national 
+databases or official records to verify their authenticity.
+2. Address Verification:
+Addresses provided by students can be another point of validation.
+The system can check whether the addresses submitted by the university match those provided 
+by students in their financial aid applications.
+Discrepancies can trigger alerts for further investigation.
+3. Incorporating Biometric Data:
+To further enhance security, biometric data, such as fingerprints or facial recognition, can be 
+used.
+During the admission process at the university, students' biometric data can be collected and 
+securely stored.
+This biometric data can be shared with NSFAS for verification, ensuring that the same 
+individuals are applying for admission and financial aid.
+4. Real-Time Monitoring:
+The fraud detection system can be designed for real-time monitoring of data.
+It can continuously compare student information as it is collected and updated by the university 
+and NSFAS.
+Real-time alerts can be generated for any discrepancies, allowing for immediate action.
+5. Auditing and Random Sampling:
+Periodic audits can be conducted on a random sample of students' records.
+This can help identify any inconsistencies or fraudulent activities that might not be immediately 
+apparent through automated checks.
+Auditing can serve as a deterrent to potential fraudsters within the university.
+Compliance with data protection regulations is essential to protect students' personal 
+information.
