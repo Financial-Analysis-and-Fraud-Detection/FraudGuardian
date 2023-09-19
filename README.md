@@ -10,8 +10,32 @@ In the modern-day intricate and hastily evolving economic landscape, correct ana
 Global finance operates inside a sensitive stability of dangers and rewards, in which every transaction consists of implications for prosperity or loss. In any such dynamic environment, making informed choices is paramount. Whether it's an individual coping with personal investments, a business optimizing economic techniques, or a monetary organization securing assets, the precision of evaluation and vigilance against fraud is paramount. The Financial Analysis and Fraud Detection AI Project stands at the vanguard of innovation, uniting superior algorithms and records-pushed insights to redefine how monetary operations are accomplished.
 
 ## Problem definition
+## what is the problem
 
-The challenges of accurate financial analysis and the enduring threat of fraud pose significant hurdles in the world of finance, which is characterized by quick technological transactions. Traditional methods of financial analysis struggle to handle the complexities of modern financial systems while evolving fraudulent tactics demand a proactive response. These challenges highlight the necessity of an advanced solution leveraging Artificial Intelligence
+In the realm of finance, characterized by swift technological transactions, the challenges of accurate 
+financial analysis and the persistent specter of fraud pose significant hurdles. Traditional methods of 
+financial analysis struggle to cope with the complexities of modern financial systems, while evolving 
+fraudulent tactics demand a proactive response. For the past years, most financial aid institution have 
+been paying double the funds. This is due to non-existing students and underserving students. First case 
+is that the university has 100 000 students who are in need of financial aid (NSFAS) funding. Instead of 
+sending the correct list to financial aid (NSFAS), the university sends 200 000. This means the NSFAS 
+ends up using double the funds monthly paying for non-existing students or undeserving students. There 
+is a high rate of crime in the financial aid institutions. For example, NSFAS found that it lost R5bn by 
+funding over 40 000 undeserving applicants between 2018 and 2021 (NSFAS Annual Report). Those 
+funds have not been recovered today. The problems are perpetrators using fake identity numbers and 
+the system not picking the funding is for the undeserving applicants. This form of financial fraud can be 
+likened to an electronic heist, with perpetrators utilizing tactics such as cloning or skimming of students' 
+identity numbers. In some instances, fraudsters go to the extent of creating fake identity numbers to 
+apply for financial assistance, effectively robbing these financial aid institutions. For uninformed 
+institutions, it is difficult to detect. Fraudsters in our problem is the students using fake ids or university 
+management sending the wrong list deliberately. As we know that funding comes from the NSFAS to the 
+university and the university pay students. In addition, another critical problem is slow responsiveness 
+when it comes to fraudulent activities. For example if people collect funds from the institution using 
+fake identity numbers, the institution may take years without knowing anything due to human error or 
+wrongfully inputting the data. Financial Agencies are drowning in data, collecting terabytes of it each 
+day. AI and ML’s primary use is data management, specifically making large amounts of data searchable, 
+filterable and retrievable in real-time.
+
 
 ## Vision
 
@@ -21,84 +45,95 @@ As you embark on this exploration of the synergy between AI and finance, you wil
 
 The Financial Analysis and Fraud Detection AI Project ushers in a brand new generation of monetary operations, strengthened with the aid of the prowess of AI. Join us as we delve into this realm of innovation, wherein the era's precision meets finance's complexity, ensuing in multiplied accuracy, informed choices, and fortified economic integrity for all stakeholders.
 
-[![Detection](https://user-images.githubusercontent.com/140595879/261931388-7000ab3d-44a1-4600-a70a-8fcffcbacb42.jpg)]
-
 
 ## AI Solution for Financial Analysis and Fraud Detection
-                              Solution for Financial Analysis and Fraud Detection. Here are the key points:
-                                                                     Overview
+                              How will this AI benefit the communities, which are the financial aid institutions?
 
-The solution employs AI to enhance financial operations' accuracy, efficiency, and security.
+                              Benefits of Implementing Financial Analysis and Fraud Detection AI in Financial Institutions
 
-Advanced-Data Analytics: It uses machine learning to analyze large volumes of financial data quickly and accurately, identifying patterns and anomalies for informed decision-making.
+When we look at the high crime or fraud rate in our community, it is clear that we still lack when it 
+comes to responsiveness and alerting institutions when in fraud activities, so our AI model will help our 
+community reduce the number of crimes.
 
-Risk Assessment and Predictive Modeling: The AI system assesses financial risk by analyzing historical data and market trends, enabling proactive decision-making to optimize investments.
+1. Improved Financial Aid Distribution:
+ 
+ Ensures that financial aid goes to deserving students who are genuinely in need, helping them pursue 
+their education without unnecessary delays or financial hardships. This model is going to reduce the 
+chances of financial aid funds being wasted on ineligible or fraudulent recipients, ultimately making the 
+system more equitable.
 
-Fraud Detection with Machine Learning: Real-time monitoring of transactions helps detect and prevent fraudulent activities, with the system learning from historical fraud cases to improve accuracy.
+2. Enhanced Financial Security:
+   
+Protects the institution's (NSFAS) financial resources by proactively identifying and preventing 
+fraudulent activities, thus safeguarding the institution's funds. Increases the institution's financial 
+stability, which can lead to better long-term planning and allocation of resources. This will be beneficial 
+and advantageous to eligible students.
 
-Behavioral Analysis and Anomaly Detection: The AI solution studies user behavior patterns, triggering alerts for any deviations that may indicate fraudulent activities.
+3. Timely Intervention:
+   
+Detects fraudulent activities in real-time or near real time, enabling universities to take immediate 
+action, recover funds, and prevent further losses. Avoids situations where fraudulent activities go 
+undetected for extended periods, minimizing the overall financial impact.
 
-Integration with Existing Systems: It seamlessly integrates into existing financial systems, providing actionable insights and enhancing human analysts' capabilities.
+4. Enhanced Reputation and Trust:
 
-Continuous Learning and Adaptation: The AI algorithms continuously refine their models as new data is generated and financial landscapes evolve, improving their ability to detect fraud and provide accurate financial analysis.
+Demonstrates the institution's commitment to financial transparency and responsible stewardship of 
+funds, which can enhance the institution's reputation and build trust within the community. In the 
+recent years, the stats showed that more people would rather choose to apply for other bursaries than 
+NSFAS because most lost the trust in it. You apply for NSFAS it rejects you and it takes an identity 
+number, which does not exist and funds it. Our model is going to help to attracts more qualified and 
+deserving students who feel confident that the financial aid system is fair and secure.
 
-This AI solution aims to revolutionize financial operations by leveraging artificial intelligence for enhanced security and decision-making.
+5. Cost Savings:
+   
+Reduces the financial losses associated with fraud, potentially saving universities significant sums of 
+money over time.
 
-##  Benefits of Implementing Financial Analysis and Fraud Detection AI in Companies and Banks
-
-                                                         Overview:
-The integration of AI-powered Financial Analysis and Fraud Detection solutions provides numerous advantages to companies and banks, reshaping their operations and enhancing decision-making while safeguarding financial integrity. Here are the key benefits:
-
-Enhanced Accuracy and Efficiency: AI algorithms process vast financial data with unmatched precision and speed, reducing human error and enabling precise financial analysis and risk assessment. This efficiency leads to better-informed decisions.
-
-Real-Time Risk Assessment: AI continuously monitors financial data, identifying and assessing risks in real time, enabling proactive risk management and quick strategy adjustments in response to changing market conditions.
-
-Early Fraud Detection and Prevention: AI-powered fraud detection algorithms identify unusual patterns and anomalies, detect potential fraudulent activities before significant losses occur, and protect both customers and institutions.
-
-Cost Savings: Automation of complex financial evaluation and fraud detection tasks reduces the need for extensive manual labor, resulting in cost savings through improved efficiency and resource allocation.
-
-Streamlined Compliance: AI answers assist companies and banks in adhering to regulatory requirements by automating statistics analysis and reporting, lowering the hazard of non-compliance and related results.
-
-Improved Customer Trust and Satisfaction: Swift detection and prevention of fraudulent sports build self-assurance in customers that their monetary belongings are steady, main to expanded belief in the group and better client satisfaction.
-
-Optimized Resource Allocation: AI-driven insights facilitate efficient resource allocation based on accurate risk assessment, ensuring resources are directed towards opportunities with favorable risk-reward profiles.
-
-Data-Driven Decision-Making: AI provides data-driven insights that guide strategic decision-making, empowering institutions to seize profitable opportunities while minimizing exposure to unnecessary risks.
-
-Scalability and Adaptability: AI structures can take care of large statistics volumes and adapt to evolving monetary landscapes, ensuring effectiveness as operations expand or marketplace dynamics alternate.
-
-Reduced Time-to-Insight: AI systems provide fast insights into complicated monetary facts, allowing timely decision-making that capitalizes on emerging possibilities and mitigates dangers directly.
-
-Competitive Edge: Institutions leveraging AI-powered financial analysis and fraud detection gain a competitive edge by offering enhanced security and efficiency, attracting and retaining customers.
-
-Future-Proofing Operations: By embracing AI technology, companies and banks position themselves for future advancements in the financial industry, ensuring their operations remain relevant and effective.
-
-              In summary, implementing AI-driven Financial Analysis and Fraud Detection solutions results in a transformative paradigm shift for companies and banks. These solutions provide multifaceted benefits, including increased operational efficiency, customer trust, and strategic decision-making capabilities.
+                                                        
 
 
 ## Machine Learning Approach
 
 How Machine Learning Is Used in Financial Analysis and Fraud Detection.
 
-Machine Learning (ML) performs a pivotal role in revolutionizing financial analysis and fraud detection, leveraging its potential to technique great datasets, perceive styles, and make records-driven predictions. Here is how ML is harnessed for these functions:
+We have trained our model to help analyze, and flag the personal details that are mostly used to commit this 
+kind of fraud, which is mostly the identity numbers. By identifying identity numbers originality, Our AI 
+model can flag suspicious applications or transactions in real time. Our AI model can learn and adapt to 
+evolving fraud patterns. It can recognize new trends in fraudulent identity number usage, helping the 
+financial institution (NSFAS) to stay ahead of fraudsters' tactics
 
-* Anomaly Detection: ML algorithms examine the everyday styles of economic transactions and behaviors. When an unusual or anomalous activity happens, inclusive of a surprising spike in transactions or unexpected changes in account conduct, the algorithm flags it as a capability fraud or chance.
+The machine learning algorithms we used are Supervised and Unsupervised
 
-* Pattern Recognition: ML models recognize complex patterns that are beyond human capacity to identify in large datasets. This capability is used to identify consistent patterns of fraudulent activities that might be scattered across different accounts or transactions.
+For the Supervised algorithm, we used a set of labeled data. The dataset includes names, surnames, 
+identity numbers and application numbers etc.
 
-* Supervised Learning for Fraud Detection: In supervised learning, ML algorithms are trained on historical data that contains labeled instances of fraud and legitimate transactions. The algorithm learns to differentiate between the two based on the features present in the data.
+First, we created a training dataset, with this dataset the model can analyze, create and spot the 
+relationship between the factors and predict things. The major thing it uses is comparison. Our model is 
+going to compare the data received from the university with the stored data from the student’s 
+application. When students apply for financial aid, the institution store their data.
 
-* Unsupervised Learning for Anomalies: Unsupervised learning is used to detect anomalies or unusual behavior in the absence of labeled data. This is particularly useful for identifying emerging fraud patterns that were not previously known.
+Therefore, our model is going to compare the two set of data to check if whether the student does belong to the university. 
+That is financial aid (NSFAS) vs Student. The second one is comparing the universities sets of application 
+list and we are going to store the Home Affairs datasets in our model so that it be able to check for the 
+originality of the identity numbers. That is financial aid (NSFAS) vs the university.
+Supervised Machine Learning Techniques we used are
 
-* Feature Engineering: ML models require relevant features (variables) to make accurate predictions. Financial analysts work on identifying and engineering these features to ensure the model has the right inputs for accurate predictions.
+Classification:
+1. Data Labeling: Label your historical dataset of financial aid applications as either legitimate or 
+fraudulent based on known cases.
+2. Feature Engineering: Select relevant features (such as identity numbers, application details, etc.) that 
+can help the model distinguish between legitimate and fraudulent applications.
+We also used the student Eligibility method where our model is going to use classification to determine 
+if a student is eligible for financial aid based on their application details. This can help ensure that aid 
+goes to deserving students
 
-* Regression Models: Regression models predict numerical values. In finance, these models can predict stock prices, interest rates, and other key financial indicators based on historical data.
+Regression:
+1. Data Preparation: Collect data on students' financial situations, academic performance, and other 
+relevant factors that affect aid amounts.
+2. Feature Selection: Choose features that are strongly correlated with aid amounts, such as family 
+income, number of dependents, academic performance, etc.
 
-* Classification Models: Classification models categorize data into specific classes. In fraud detection, this is used to classify transactions as legitimate or fraudulent based on patterns and historical data.
 
-* Time Series Analysis: ML algorithms examine time-primarily based financial information, consisting of stock prices or foreign exchange prices, to expect destiny trends and styles, helping in investment selections.
-
-* Natural Language Processing (NLP): NLP strategies are employed to analyze textual content primarily based on monetary records, along with news articles and financial reviews, to extract insights that have an impact on marketplace traits and funding decisions.
 
 
   ## Time Series Analysis in Financial Analysis and Fraud Detection
