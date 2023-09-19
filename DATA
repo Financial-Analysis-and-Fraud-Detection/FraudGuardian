@@ -26,7 +26,8 @@ fraud detection system.
 Step 3: Applying Pre-processing Techniques In the realm of data pre-processing for fraud detection, we 
 implemented various techniques to optimize our dataset and enhance the accuracy of our AI model.
 Binarization: To detect and categorize potentially fraudulent cases, we applied binarization to our data. 
-Here, '0' represents suspicious or potentially fraudulent activities, while '1' signifies legitimate and nonfraudulent transactions. This transformation allows our AI to efficiently classify and analyze financial 
+Here, '0' represents suspicious or potentially fraudulent activities, while '1' signifies legitimate and non-fraudulent transactions.
+This transformation allows our AI to efficiently classify and analyze financial 
 activities.
 Mean Removal: To maintain the highest level of accuracy, our AI system adopted the mean removal 
 technique. This process centers our feature vectors around zero, ensuring there is no bias in the data. By 
