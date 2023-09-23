@@ -1,0 +1,15 @@
+Student ID,First Name,Last Name,Gender,Date of Birth,Email,Phone Number,Course,Course Year
+1234567890,John,Smith,Male,1998-05-15,john.smith@example.com,0712345678,Bachelor of Science,3
+2345678901,Lisa,Jones,Female,1999-03-20,lisa.jones@example.com,0823456789,Bachelor of Commerce,2
+3456789012,David,Nguyen,Male,1997-11-10,david.nguyen@example.com,0734567890,Bachelor of Arts,3
+4567890123,Sarah,Johnson,Female,1998-08-02,sarah.johnson@example.com,0767689254,Bachelor of Engineering,4
+5678901234,Martin,Mpofu,Male,1999-01-30,martin.mpofu@example.com,0790123456,Bachelor of Medicine,2
+6789012345,Amy,Muller,Female,1997-06-25,amy.muller@example.com,0845678901,Bachelor of Computer Science,3
+7890123456,Michael,Smith,Male,1998-09-17,michael.smith@example.com,0723456789,Bachelor of Law,4
+8901234567,Lucia,Mkhize,Female,1997-03-05,lucia.mkhize@example.com,0831234567,Bachelor of Education,2
+9101112131,James,Miller,Male,1991-01-11,james.miller@example.com,0712345678,Bachelor of Science,3
+1213141516,Emily,Brown,Female,1992-12-13,emily.brown@example.com,0823456789,Bachelor of Commerce,2
+1314151617,Daniel,Khan,Male,1993-11-14,daniel.khan@example.com,0734567890,Bachelor of Arts,3
+1415161718,Olivia,Clark,Female,1994-10-15,olivia.clark@example.com,0767890123,Bachelor of Engineering,4
+1516171819,William,Anderson,Male,1995-09-16,william.anderson@example.com,0790123456,Bachelor of Medicine,2
+1617181920,Sophia,Garcia,Female,1996-08-17,sophia.garcia@example.com,0845678901,Bachelor of Computer Science,3

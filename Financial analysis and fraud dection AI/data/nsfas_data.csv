@@ -1,0 +1,7 @@
+ID Number,First Name,Last Name,Gender,Date of Birth,Email,Phone Number,Application Date,Course,Institution,Financial Need
+1234567890,John,Smith,Male,1998-05-15,john.smith@example.com,0712345678,2023-08-15,Bachelor of Science,University of Limpopo,High
+2345678901,Lisa,Jones,Female,1999-03-20,lisa.jones@example.com,0823456789,2023-07-25,Bachelor of Commerce,University of Limpopo,Medium
+3456789012,David,Nguyen,Male,1997-11-10,david.nguyen@example.com,0734567890,2023-09-03,Bachelor of Arts,University of Limpopo,High
+4567890123,Sarah,Johnson,Female,1998-08-02,sarah.johnson@example.com,0767689254,2023-06-10,Bachelor of Engineering,University of Limpopo,Low
+5678901234,Martin,Mpofu,Male,1999-01-30,martin.mpofu@example.com,0790123456,2023-08-20,Bachelor of Medicine,University of Limpopo,High
+6789012345,Amy,Muller,Female,1997-06-25,amy.muller@example.com,0845678901,2023-07-12,Bachelor of Computer Science,University of Limpopo,Medium
