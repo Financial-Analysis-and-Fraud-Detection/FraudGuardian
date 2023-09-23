@@ -1,0 +1,16 @@
+## MODEL:
+
+Our model can simulate the thinking process of human beings by helping to solve a problem. Our AI 
+model operates by simulating the cognitive processes of human reasoning to address the challenge of 
+financial fraud within institutions it is an entirely artificial environment confined to the database and 
+inscribed output on the screen. Our model utilizes the Decision Trees classifier, a powerful algorithm 
+known for its effectiveness with extensive datasets.
+
+Model Evaluation: To gauge the performance of our fraud detection model, we executed an evaluation 
+procedure using the predict function with our test data. The key metric we employed to assess accuracy 
+is the accuracy_score function, which provides insights into the model's precision.
+
+The evaluation results yielded a binary series of outcomes, consisting of 0s and 1s, representing 
+predicted values for distinguishing between legitimate financial aid applications and potentially 
+fraudulent ones. Impressively, our Decision Trees classifier demonstrated a remarkable accuracy rate of 
+95.05%.
